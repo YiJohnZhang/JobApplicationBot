@@ -1,3 +1,13 @@
+#	Project Specific .gitignore
+##	Output Directory
+/_output/*
+
+##	Source & Temp Files
+*.xml
+*.bkp
+*.dtmp
+
+
 # Logs
 logs
 *.log

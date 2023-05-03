@@ -1,0 +1,23 @@
+{
+  "name": "jobapplicationbot",
+  "version": "1.0.0",
+  "description": "A job application bot application. NodeJS RTE (port to Python + C++ for fun after).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YiJohnZhang/JobApplicationBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YiJohnZhang/JobApplicationBot/issues"
+  },
+  "homepage": "https://github.com/YiJohnZhang/JobApplicationBot#readme",
+  "dependencies": {
+    "jssoup": "^0.0.15"
+  }
+}
