@@ -38,3 +38,26 @@ after all, besides, consequently, finally, however, nevertheless, then, therefor
 
 # Article
 a, an, the
+
+# Skippable Pronouns
+<!--	Source:	https://www.really-learn-english.com/list-of-pronouns.html	-->
+<!--	Subjective	-->
+i, you, he, she, it, we, they, what, who
+<!--	Objective	-->
+me, him, her, it, us, you, them, whom
+<!--	Possessive	-->
+mine, yours, his, hers, ours, theirs
+<!--	Demonstrative	-->
+this, that, these, those
+<!--	Interrogative 	-->
+who, whom, which, what, whose, whoever, whatever, whichever, whomever
+<!--	Relative	 -->
+who, whom, whose, which, that, what, whatever, whoever, whomever, whichever
+<!--	Reflexive	 -->
+myself, yourself, himself, herself, itself, ourselves, themselves
+<!--	Intensive	 -->
+myself, yourself, himself, herself, itself, ourselves, themselves
+<!--	Reciprocal	 -->
+each other, one another
+<!--	Indefinite (partial)	-->
+anything, everybody, another, each, few, many, none, some, all, any, anybody, anyone, everyone, everything, no one, nobody, nothing, none, other, others, several, somebody, someone, something, most, enough, little, more, both, either, neither, one, much, such
