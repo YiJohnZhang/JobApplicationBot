@@ -1,6 +1,6 @@
 <!-- ATS Synonyms -->
 <!-- https://www.jobscan.co/blog/synonyms-for-common-resume-power-verbs/ -->
-<!-- Later version: thesaurus API? and -ing / -ed database? Right now the stopgap version is pretty dumbdumb. need a NLM database -->
+<!-- Later version: thesaurus API? and -ing / -ed database? Right now the stopgap version is pretty dumbdumb. need a NLP database -->
 <!-- 
 Overview: Taleo and other ATS are configurable keyword ranking systems that: "knockout" candidates based on certain answers, and rank an application by the product of the weight of a keyword and the number of times keywords appear in an application. The job description written LIKELY reflects the ATS setup for that position. Taleo and other ATS are also pretty dumb, they only do exact matches, i.e. if one writes "collaborated" and the ATS is setup for "collaborating", then there will be 0 matches for "collaborating"; likewise, if the ATS is setup for "full-stack engineer" and the applicant spells it as "full stack engineer", there will be 0 matches.
 
